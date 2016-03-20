@@ -1,0 +1,454 @@
+10179 Euler Lennie L 
+4550 Cherry Lane
+Three Rivers,Michigan
+21345
+2786290017 M  MATH 
+3/23/1995 5/4/2015 98989123
+
+10113 Vanden Vanessa V 
+153 Elm Street
+Fremont,Michigan
+34567
+2315509237 F  HIST 
+3/24/1995 5/5/2015 98989124
+
+10104 Andrews Peter J 
+56 Cocapod Ave
+Grand Rapids,Michigan 
+98765
+6169493301 M  CPSC 
+3/25/1995 5/6/2015 98989125
+
+10103 Johnson James L
+23 Hicksville Road
+Waupun,Wisconsin
+12345
+9207345229 M   ENGR 
+3/26/1995 5/7/2015 98989126
+
+10110 Peters Andrew J 
+5 Fourth Ave
+Lynden,Washington
+78906
+3603239550 M  ART 
+3/27/1995 5/8/2015 98989127
+
+10126 Aristotle Alice A 
+345 Kimberly Lane
+Chino,California
+87654
+9093330861  F  PHIL
+3/28/1995 5/9/2015 98989128
+
+10272 Speareshake William W 
+2B Ornot Street
+Grand Rapids,Michigan 
+45678
+6162410744 M   ENGL 
+3/29/1995 5/10/2015 98989129
+
+10144 Lucky, Lucy L 
+12345 Fish Ave
+Grandville,Michigan
+67890
+6167745424 F   HIST
+3/30/1995 5/11/2015 98989130
+
+10191 Nakamura Toky O 
+191 Eighth Street
+Chicago,Illinois
+34567
+7734249665 F   SOCI 
+3/31/1995 5/12/2015 98989131
+
+10226 Freud Fred E 
+346 Pine Street
+Lynden,Washington
+64322
+3608340115 M   PSYC 
+4/1/1995 5/13/2015 98989132
+
+10274 Tchaikovsky Wolfgang A 
+45 Maestro Ave
+Byron Center,Michigan
+55432
+2538845115 M   MUSC 
+4/2/1995 5/14/2015 98989133
+
+10284 Orange Dutch V
+34 Tree Street
+Graafschaap,Michigan
+57566
+3133141660 M  ENGR 
+4/3/1995 5/15/2015 98989134
+
+10297 Caesar Julie S 
+45 Rome Lane
+Denver,Colorado
+32465
+7204470338 F   HIST
+4/4/1995 5/16/2015 98989135
+ 
+10422 Gestalt Gloria G
+34 Wheat Blvd
+Wheaton,Illinois
+65474
+6306631212 F   PSYC 
+4/5/1995 5/17/2015 98989136
+
+10339 Dewey Johanna A 
+67 School Ave
+Salt Lake City,Utah
+56574
+8016841129 F   EDUC 
+4/6/1995 5/18/2015 98989137
+
+10298 Psycho Prunella E 
+47 High Ave
+De Motte,Indiana
+46546
+2195384609 F   PSYC 
+4/7/1995 5/19/2015 98989138
+
+10307 Mendelssohn Mozart W
+90 Music Lane
+Peoria,Illinois
+57546
+3092410747 M   MUSC 
+4/8/1995 5/20/2015 98989139
+
+10301 Bull Sitting U
+67 Wild West Ave
+Gallup,New Mexico
+54754
+5056632997 M   EDUC 
+4/9/1995 5/21/2015 98989140
+
+10302 Custer General G 
+87 Battle Blvd
+Badlands,South Dakota
+13434
+6055552995 M   HIST 
+4/10/1995 5/22/2015 98989141
+
+10303 Fahrenheit Felicia O 
+451 Bradbury Lane 
+Sheboygan,Wisconsin
+13434
+9205154997 F   CHEM
+4/11/1995 5/23/2015 98989142
+ 
+10304 Deutsch Sprechen Z 
+35 Nyet Street
+Sparta,Michigan
+45245
+6168861201 F   GERM 
+4/12/1995 5/24/2015 98989143
+
+10310 Augusta Ada B
+56 Hyatt Ave
+Lakewood,California
+45155
+5627172339 F   CPSC 
+4/13/1995 5/25/2015 98989144
+
+10319 Gauss Carl F
+34 Washington Road
+Yorktown,Pennsylvania
+45435
+7173385494 M   MATH 
+4/14/1995 5/26/2015 98989145
+
+10323 Kronecker Leo P 
+67 Fifth Street
+Traverse City,Michigan
+42534
+2316763991 M   MATH
+4/15/1995 5/27/2015 98989146
+
+10330 Issacson Jacob A 
+35 Canan Street
+Silver Springs,Maryland
+24523
+2404847932 M   RELI
+4/16/1995 5/28/2015 98989147
+ 
+10331 Issacson Esau B 
+35 Canan Street
+Silver Springs,Maryland
+24523
+2404847932 M  RELI 
+4/17/1995 5/29/2015 98989148
+
+10348 Virus Vera W
+54 Flu Ave
+Saginaw,Michigan
+42354
+9896634401 F   CPSC 
+4/18/1995 5/30/2015 98989149
+
+10355 Zylstra Zelda A
+40 Up Ave
+Downs,Kansas
+23544
+7857514008 F   ENGL
+4/19/1995 5/31/2015 98989150
+
+10377 Porgy Bess N 
+69 Fish Street
+Columbus,Ohio
+34524
+6144841771 F   MUSC 
+4/20/1995 6/1/2015 98989151
+
+10389 Newmann Alfred E 
+29 Daub Street
+Cheyenne,Wyoming
+24545
+3077712399 M   EDUC 
+4/21/1995 6/2/2015 98989152
+
+10395 Medes Archie L 
+45 Yokel Lane
+Whitinsville,Maryland
+24542
+6179294401 M   ENGR
+4/22/1995 6/3/2015 98989153
+ 
+10406 Macdonald Ronald B 
+54 Clown Ave
+Seattle,Washington
+25442
+2065582911 M   CPSC 
+4/23/1995 6/4/2015 98989154
+
+10415 Aardvark Anthony A 
+35 Arthur Ave
+Grandville,Michigan
+24542
+6165325912 M   ENGR 
+4/24/1995 6/5/2015 98989155
+
+10431 GotoDijkstra Edgar G
+678 Fifth Ave
+Cawker City,Kansas
+43523
+7856349971 M   CPSC 
+4/25/1995 6/6/2015 98989156
+
+10448 Rembrandt Roberta E 
+23 Painting Lane
+Sioux Center,Iowa
+43543
+7122408113 F   ART 
+4/26/1995 6/7/2015 98989157
+
+10458 Shoemaker Imelda M 
+45 Last Ave
+Honolulu,Hawaii
+25425
+8089193001 F   POLS 
+4/27/1995 6/8/2015 98989158
+
+10467 Marx Karl Z 
+63 Communist Street
+Hawthorne,New Jersey
+34543
+9735513915 M   ECON
+4/28/1995 6/9/2015 98989159
+
+10470 Scrooge Ebenezer T 
+67 Dickens Street
+Troy,Michigan
+23544
+2488134001 M   SOCI
+4/29/1995 6/10/2015 98989160
+
+10482 Nightingale Florence K 
+67 Nurse Ave
+Rochester,New York
+25455
+5857175118 F   NURS
+4/30/1995 6/11/2015 98989161
+ 
+10490 Gazelle Gwendolyn D 
+56 Twelveth Ave
+Chino,California
+32454
+9093132446 F   PE 
+5/1/1995 6/12/2015 98989162
+
+10501 Pasteur Louise A 
+7443 Germ Lane
+Window Rock,Arizona
+23542
+9284245170 F   BIOL
+5/2/1995 6/13/2015 98989163
+ 
+10519 Elba Able M 
+56 First Street
+Bozeman,Montana
+23545
+4068183226 M   SPEE 
+5/3/1995 6/14/2015 98989164
+
+10511 Lewis Clark N 
+86 Louisiana Street
+New Era,Michigan
+54352
+2316461125 M   GEOG 
+5/4/1995 6/15/2015 98989165
+
+10515 Mouse Michael E
+43 Mickey Street
+Boise,Idaho
+45245
+2085132771 M   EDUC
+5/5/1995 6/16/2015 98989166
+
+10523 Pavlov Bowser T
+9 Ninth Ave
+Farmington,Michigan
+54235
+2489421753 F  PSYC 
+5/6/1995 6/17/2015 98989167
+
+10530 Chicita Juanita A
+56 Second Street
+Oklahoma City,Oklahoma
+45243
+4053714377 F   BIOL
+5/7/1995 6/18/2015 98989168
+
+10538 Busch Arch E 
+56 Third Street
+St Louis,Missouri
+42354
+3148354112 M   ENGR 
+5/8/1995 6/19/2015 98989169
+
+10547 Fault Paige D 
+56 Yours Ave
+Petoskey,Michigan
+33454
+2314543116 F   CPSC 
+5/9/1995 6/20/2015 98989170
+
+10553 Santamaria Nina P
+45 Columbus Ave
+Plymouth,Massachusetts
+45456
+5082351181 F   HIST 
+5/10/1995 6/21/2015 98989171
+
+10560 Shyster Samuel D 
+99 Fourth Street
+Everglades,Florida
+92655
+2394421885 M   SOCI
+5/11/1995 6/22/2015 98989172
+ 
+10668 Einstein Alfred M
+43 EMC Ave 
+Newark,New Jersey
+57923
+8623710225 M   ENGR 
+5/12/1995 6/23/2015 98989173
+
+10582 Yewliss Cal C
+23 Derivative Street
+Rudyard,Michigan
+89221
+9063451220 M   MATH 
+5/13/1995 6/24/2015 98989174
+
+10590 Atanasoff Eniac C 
+87 Fifth Street
+Springfield,Illinois
+35145
+3126142449 F   CPSC 
+5/14/1995 6/25/2015 98989175
+
+10597 Rockne Newton K
+43 Issac Lane 
+New York,New York 
+12353
+9174631744 M   PE 
+5/15/1995 6/26/2015 98989176
+
+10610 Roosevelt Rose Y 
+76 FDR Street
+Spring Lake,Michigan
+78900
+6169491221 F  POLS
+5/16/1995 6/27/2015 98989177
+
+10623 Xerxes Art I 
+64 Esther Lane
+Cincinnati,Ohio
+12465
+5133701228 M   GREE 
+5/17/1995 6/28/2015 98989178
+
+10624 O'Conner Sandra D
+45 Sixth Ave
+Boulder,Colorado
+56784
+3035140228 M   MATH 
+5/18/1995 6/29/2015 98989179
+
+10633 Vespucci Vera D
+34 Magellan Ave 
+Ripon,California
+98765
+2094341883 F   GEOG
+5/19/1995 6/30/2015 98989180
+
+10648 Principal Pamela P 
+45 Seventh Street
+Albany,New York
+46264
+5187145513 F   EDUC 
+5/20/1995 7/1/2015 98989181
+
+10652 Cicero Marsha R 
+356 Tenth Place
+Rapid City,South Dakota
+67899
+6053335910 F   EDUC
+5/21/1995 7/2/2015 98989182
+
+10657 Weerd Dewey L 
+56 Hewy Ave
+Detroit,Michigan
+14567
+3134841962 M   PHIL
+5/22/1995 7/3/2015 98989183
+
+10663 Hochschule Hortense C 
+578 Eleventh Street
+Lincoln,Nebraska
+38885
+4027120111 F   EDUC
+5/23/1995 7/4/2015 98989184
+
+10675 Fibonacci Leonard O 
+11-235 Einstein Ave
+Nashville,Tennessee
+67868
+6154921107 M   MATH
+5/24/1995 7/5/2015 98989185
+
+10682 Angelo Mike L
+124 Sistene Ave
+Austin,Texas
+36557
+5125132201 M   ART
+5/25/1995 7/6/2015 98989186
+
+10688 Pascal Blaze R
+796 Newton Place
+Brooklyn,New York 
+43665
+7187412993 M   CPSC
+5/26/1995 7/7/2015 98989187

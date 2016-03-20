@@ -1,0 +1,12 @@
+HIS220;Survey of Modern History 1;D103;3
+HIS221;Survey of Modern History 2;D103;3
+LLE102;English Composition 2;D104;3
+LLE202;Creative Writing;D104;3
+LLE221;Survey of Modern Lit 2;D104;3
+MAT120;Pre-Calculus;D100;3
+MAT221;Linear Algebra;D100;3
+MCO104;Computer Concepts;D101;4
+MCO141;Introduction to Programming;D101;3
+MCO232;Advanced Programming;D101;3
+MCO242;Data Structures;D101;3
+MCO343;Database Concepts;D101;3 
